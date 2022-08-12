@@ -174,7 +174,7 @@ const App: React.FC = () => {
           <p className="font-bold">
             Websites checked for phishing till now: {count}
           </p>
-          <p className="text-sm">Created by Priyanshu Upadhyay :)</p>
+          <p className="text-sm">Created by Rajnish Kumar Gupta :)</p>
         </span>
       </footer>
     </>
